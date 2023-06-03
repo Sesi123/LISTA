@@ -9,3 +9,6 @@ https://pc-12.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxj
 #EXTINF:-1 ,Hasta el ultimo hombre
 
 https://pc-35.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4f36e86d4d91a084280e8de660ab2750/EP.0.1.v1.1677296522.720.m3u8
+
+#EXTINF:-1 ,GUMBALL
+https://pc-40.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/8e6dbc708cc527f2494fd19d7b446e81/EP.28.1.v0.1676996977.1080.m3u8
