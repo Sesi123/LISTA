@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 type:video group-title=peliculas,Las locuras del Emperador
+#EXTINF:-1 type:video group-title=peliculas, Las locuras del Emperador
 
 https://pc-12.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/309d0ee16f5275f9d83aa969938f403b/EP.0.1.v0.1677495281.1080.m3u8
 
