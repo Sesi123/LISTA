@@ -75,3 +75,6 @@ https://pc-18.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxj
 
 #EXTINF:-1 group-title=GUMBALL2 tvg-logo=https://upload.wikimedia.org/wikipedia/en/b/b8/The_Amazing_World_of_Gumball_logo.png ,2x39
 https://pc-19.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/8e6dbc708cc527f2494fd19d7b446e81/EP.39.1.v0.1677351189.1080.m3u8
+
+#EXTINF:-1 group-title=MOON NIGHT tvg-logo=https://m.media-amazon.com/images/M/MV5BYTc5OWNhYjktMThlOS00ODUxLTgwNDQtZjdjYjkyM2IwZTZlXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_.jpg ,CAP 1
+https://varnish03-c02-scl1-dss-vod-dssc-shield.tr.sa.prod.dssedge.com/ps01/disney/e365103b-fb6a-41e7-b8af-a1affbf7fc7b/r/composite_4250k_CENC_CTR_FHD_SDR_316ccb4c-e6fb-4476-8da0-2c6ddad77b02_a67ac401-252d-4681-9857-59fc5f169619.m3u8
